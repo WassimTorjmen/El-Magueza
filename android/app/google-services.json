@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1038666243123",
+    "project_id": "myapp-e812d",
+    "storage_bucket": "myapp-e812d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038666243123:android:faab0f47df31ce8f569746",
+        "android_client_info": {
+          "package_name": "com.wassim.first_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038666243123-b3koq792il3v0m6tforn820g94e1d9kk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqOrortZhNWVVF8dBzxgQAEO_CQja_g60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038666243123-b3koq792il3v0m6tforn820g94e1d9kk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
